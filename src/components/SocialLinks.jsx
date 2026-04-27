@@ -24,34 +24,34 @@ const socialLinks = [
   {
     name: "Instagram",
     displayName: "Instagram",
-    subText: "@ekizr_",
+    subText: "@alkam_ill",
     icon: Instagram,
-    url: "https://www.instagram.com/ekizr_/?hl=id",
+    url: "https://www.instagram.com/alkam_ill/?hl=id",
     color: "#E4405F",
     gradient: "from-[#833AB4] via-[#E4405F] to-[#FCAF45]",
   },
   {
     name: "YouTube",
     displayName: "Youtube",
-    subText: "@eki zulfar",
+    subText: "@SkyxCode",
     icon: Youtube,
-    url: "https://www.youtube.com/@eki_zulfar",
+    url: "https://www.youtube.com/@SkyxCode",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]",
   },
   {
     name: "GitHub",
     displayName: "Github",
-    subText: "@EkiZR",
+    subText: "@milkitaaaa",
     icon: Github,
-    url: "https://github.com/EkiZR",
+    url: "https://github.com/milkitaaaa",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]",
   },
   {
     name: "TikTok",
     displayName: "Tiktok",
-    subText: "@eki_zulfar",
+    subText: "@alkam",
     icon: ({ className, ...props }) => (
       <svg
         width="24px"
@@ -89,7 +89,7 @@ const socialLinks = [
         </g>
       </svg>
     ),
-    url: "https://tiktok.com/@eki_zulfar",
+    url: "https://tiktok.com/@miluokay",
     color: "black",
     gradient: "from-[#000000] via-[#25F4EE] to-[#FE2C55]",
   },
